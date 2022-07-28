@@ -1,1 +1,5 @@
-Czy to pyknie? Nie.
+<<<<<<< HEAD
+Czy to pyknie?coś absolutnie innego.
+=======
+Czy to pyknie?
+>>>>>>> parent of 3b5a68e (Zmiany Elizy)
